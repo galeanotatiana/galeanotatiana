@@ -1,3 +1,9 @@
+# contacto:
+<a href="https://www.linkedin.com/in/tatianagaleano/" target="_blank">
+  <img src="assets/LinkedIn.gif" alt="LinkedIn" width="40" height="40">
+</a>
+
+
 ## pacman
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
