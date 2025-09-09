@@ -1,4 +1,4 @@
-### contacto:
+### Contacto: **tatianalourdesgaleano@gmail.com** 
 <a href="https://www.linkedin.com/in/tatiana-galeano/" target="_blank">
   <img src="assets/LinkedIn.gif" alt="LinkedIn" width="40" height="40">
 </a> <a href="mailto:tatianalourdesgaleano@gmail.com" target="_blank">
