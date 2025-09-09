@@ -32,8 +32,9 @@
   <img src="assets/ps.png" alt="Adobe Photoshop" width="40" height="40"></a>
 <a href="https://www.canva.com/" target="_blank">
   <img src="assets/canva.png" alt="Canva" width="40" height="40"></a><br><br>
-### 📊 Lenguajes más usados
+### 📊 Lenguajes más usados<br>
 ![Top Langs](https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut)
+
 <br><br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph-dark.svg">
