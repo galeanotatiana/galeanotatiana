@@ -35,8 +35,9 @@
 <a href="https://www.canva.com/" target="_blank">
   <img src="assets/canva.png" alt="Canva" width="40" height="40"></a>
 
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galeanotatiana)](https://github.com/galeanotatiana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galeanotatiana&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
