@@ -5,7 +5,7 @@
   <img src="assets/mail.gif" alt="Email" width="40" height="40">
 </a> <a href="https://www.instagram.com/lourtati" target="_blank">
   <img src="assets/insta.gif" alt="Instagram" width="40" height="40"></a><br><br>
-### 👩‍💻 Lenguajes y herramientas:
+### 👩‍💻 Lenguajes y herramientas:<br>
 <a href="https://www.python.org/" target="_blank">
   <img src="assets/python.svg" alt="Python" width="40" height="40"></a>
 <a href="https://www.c-language.org/" target="_blank">
@@ -35,7 +35,6 @@
 ### 📊 Lenguajes más usados<br>
 ![Top Langs](https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut)
 
-<br><br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph.svg">
