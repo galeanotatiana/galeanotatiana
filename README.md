@@ -1,4 +1,4 @@
-##✉️ Contacto: **tatianalourdesgaleano@gmail.com** 
+###✉️ Contacto: **tatianalourdesgaleano@gmail.com** 
 <a href="https://www.linkedin.com/in/tatiana-galeano/" target="_blank">
   <img src="assets/LinkedIn.gif" alt="LinkedIn" width="40" height="40">
 </a> <a href="mailto:tatianalourdesgaleano@gmail.com" target="_blank">
@@ -32,7 +32,7 @@
   <img src="assets/ps.png" alt="Adobe Photoshop" width="40" height="40"></a>
 <a href="https://www.canva.com/" target="_blank">
   <img src="assets/canva.png" alt="Canva" width="40" height="40"></a><br><br>
-##📊 Lenguajes más usados<br>
+###📊 Lenguajes más usados<br>
 ![Top Langs](https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut)
 
 <picture>
