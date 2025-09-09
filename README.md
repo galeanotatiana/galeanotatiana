@@ -37,9 +37,9 @@
         <img src="assets/canva.png" alt="Canva" width="40" height="40"></a>
       </td>
     <td>
-<h6> 📊 Lenguajes más usados
+<h3> 📊 Lenguajes más usados
 
-<img src="https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut" width="2000">
+<img src="https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut" width="400">
 
  </td>
   </tr>
