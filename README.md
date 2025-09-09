@@ -21,7 +21,7 @@
         <img src="assets/ubuntu.png" alt="Ubuntu Desktop" width="40" height="40"></a>
       <a href="https://www.kernel.org/category/about.html" target="_blank">
         <img src="assets/linux.svg" alt="Linux" width="40" height="40"></a>
-      <a href="https://www.microsoft.com/en-en/windows/?r=1" target="_blank">
+      <a href="https://www.microsoft.com/en-en/windows/?r=1" target="_blank"><br>
         <img src="assets/win.png" alt="Windows" width="40" height="40"></a>
       <a href="https://railway.com/" target="_blank">
         <img src="assets/railway.svg" alt="Railway" width="40" height="40"></a>
