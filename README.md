@@ -6,7 +6,11 @@
 </a> <a href="https://www.instagram.com/lourtati" target="_blank">
   <img src="assets/insta.gif" alt="Instagram" width="40" height="40">
 </a>
+
+
 ---
+
+
 ### lenguajes y herramientas:
 
 ---
