@@ -1,7 +1,7 @@
 # contacto:
 <a href="https://www.linkedin.com/in/tatiana-galeano/" target="_blank">
   <img src="assets/LinkedIn.gif" alt="LinkedIn" width="40" height="40">
-</a> <a href="https://mailto:tatianalourdesgaleano@gmail.com" target="_blank">
+</a> <a href="mailto:tatianalourdesgaleano@gmail.com" target="_blank">
   <img src="assets/mail.gif" alt="Email" width="40" height="40">
 </a> <a href="https://www.instagram.com/lourtati" target="_blank">
   <img src="assets/insta.gif" alt="Instagram" width="40" height="40">
