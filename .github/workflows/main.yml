@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # todos los días a la medianoche
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
@@ -19,4 +19,4 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name:
+          github_user_name: galeanotatiana
