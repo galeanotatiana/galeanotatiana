@@ -1,4 +1,4 @@
-### Contacto: **tatianalourdesgaleano@gmail.com** 
+### ✉️ Contacto: **tatianalourdesgaleano@gmail.com** 
 <a href="https://www.linkedin.com/in/tatiana-galeano/" target="_blank">
   <img src="assets/LinkedIn.gif" alt="LinkedIn" width="40" height="40">
 </a> <a href="mailto:tatianalourdesgaleano@gmail.com" target="_blank">
@@ -7,7 +7,7 @@
   <img src="assets/insta.gif" alt="Instagram" width="40" height="40"></a>
 
 
-### Lenguajes y herramientas:
+### 👩‍💻 Lenguajes y herramientas:
 <a href="https://www.python.org/" target="_blank">
   <img src="assets/python.svg" alt="Python" width="40" height="40"></a>
 <a href="https://www.c-language.org/" target="_blank">
@@ -35,6 +35,8 @@
 <a href="https://www.canva.com/" target="_blank">
   <img src="assets/canva.png" alt="Canva" width="40" height="40"></a>
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galeanotatiana)](https://github.com/galeanotatiana/github-readme-stats)
 
 
 <picture>
