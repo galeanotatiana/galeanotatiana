@@ -37,7 +37,7 @@
 
 
   
-[![Top Langs](https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&layout=donut)
+[![Top Langs](https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut)
 
 
 <picture>
