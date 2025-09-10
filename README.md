@@ -5,10 +5,8 @@
   <img src="assets/mail.gif" alt="Email" width="40" height="40">
 </a> <a href="https://www.instagram.com/lourtati" target="_blank">
   <img src="assets/insta.gif" alt="Instagram" width="40" height="40"></a>
-<table>
-  <tr>
-    <td>
-      <h3> 👩‍💻 Lenguajes y herramientas:<br><br>
+
+<h3> 👩‍💻 Lenguajes y herramientas:<br><br>
       <a href="https://www.python.org/" target="_blank">
         <img src="assets/python.svg" alt="Python" width="40" height="40"></a>
       <a href="https://www.c-language.org/" target="_blank">
@@ -40,10 +38,6 @@
 <h3> 📊 Lenguajes más usados: <br>
 
 <img src="https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut" width="400">
-
- </td>
-  </tr>
-</table>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph-dark.svg">
