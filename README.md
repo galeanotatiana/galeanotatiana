@@ -1,6 +1,6 @@
  ### ✉️ Contacto: **tatianalourdesgaleano@gmail.com** 
 
-<h3> 👩‍💻 Lenguajes y herramientas:<br>
+<h3> 👩‍💻 Lenguajes y herramientas:<br><br>
       <a href="https://www.python.org/" target="_blank">
         <img src="assets/python.svg" alt="Python" width="40" height="40"></a>
       <a href="https://www.c-language.org/" target="_blank">
@@ -29,11 +29,11 @@
         <img src="assets/canva.png" alt="Canva" width="40" height="40"></a>
       </td>
     <td>
-<br><br>
-📊 Lenguajes más usados: <br>
+<br><br><br>
+📊 Lenguajes más usados: <br><br>
 <img src="https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut" width="400">
-<br><br>
-🟢 Contribuciones:<br>
+<br><br><br>
+🟢 Contribuciones:<br><br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph.svg">
