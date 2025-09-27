@@ -35,9 +35,9 @@
         <img src="assets/canva.png" alt="Canva" width="40" height="40"></a>
       </td>
     <td>
-
+<br>
 <img src="https://readmestats-livid.vercel.app/api/top-langs/?username=galeanotatiana&exclude_repo=readmestats&layout=donut" width="400">
-
+<br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galeanotatiana/galeanotatiana/output/pacman-contribution-graph.svg">
